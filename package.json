@@ -1,0 +1,11 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rebeccarnp/my-new-project.git",
+  "author": "rebeccarnp <rebecca.remacle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
